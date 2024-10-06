@@ -1,2 +1,3 @@
 # NewsCraftNewsCraftIntroduction
 JournalismObjectives
+SetupGuide
