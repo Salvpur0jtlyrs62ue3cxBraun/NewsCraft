@@ -1,3 +1,4 @@
 # NewsCraftNewsCraftIntroduction
 JournalismObjectives
 SetupGuide
+ContentFeatures
