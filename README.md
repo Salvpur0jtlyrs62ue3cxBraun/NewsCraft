@@ -2,3 +2,4 @@
 JournalismObjectives
 SetupGuide
 ContentFeatures
+DependenciesList
