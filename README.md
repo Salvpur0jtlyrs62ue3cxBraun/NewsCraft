@@ -3,3 +3,4 @@ JournalismObjectives
 SetupGuide
 ContentFeatures
 DependenciesList
+CodeExamples
