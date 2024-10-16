@@ -5,3 +5,4 @@ ContentFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
