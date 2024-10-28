@@ -11,3 +11,4 @@ LicenseDetails
 JournalismFAQ
 Changelog
 TestingInstructions
+ContentPerformance
