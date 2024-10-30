@@ -12,3 +12,4 @@ JournalismFAQ
 Changelog
 TestingInstructions
 ContentPerformance
+CommunityResources
